@@ -1,0 +1,121 @@
+Computing some homology for Temperley--Lieb over Z, parameter 0, strands:
+12
+Answer complete thru degree:
+5
+
+weight: 2
+Homology indexed by degree:
+{2: C2, 3: 0}
+
+weight: 3
+Homology indexed by degree:
+{3: C2, 4: C3, 5: 0}
+
+weight: 4
+Homology indexed by degree:
+{4: C2, 5: C3, 6: C2, 7: 0}
+
+weight: 5
+Homology indexed by degree:
+{5: C2, 6: 0, 7: C2, 8: C5, 9: 0}
+
+weight: 6
+Homology indexed by degree:
+{7: 0, 8: C6, 9: C10, 10: 0, 11: 0}
+
+weight: 7
+Homology indexed by degree:
+{9: C6, 10: C2, 11: 0, 12: Z}
+
+weight: 8
+Homology indexed by degree:
+{11: C2, 12: C2, 13: Z x C4, 14: 0}
+
+weight: 9
+Homology indexed by degree:
+{13: C2, 14: C2 x C2 x C4, 15: C3, 16: 0}
+
+weight: 10
+Homology indexed by degree:
+{15: C2^5, 16: C3 x C3 x C30, 17: C5, 18: 0}
+
+weight: 11
+Homology indexed by degree:
+{17: C6 x C30, 18: C2 x C10, 19: 0, 20: 0}
+
+weight: 12
+Homology indexed by degree:
+{19: C2 x C2 x C6 x C6, 20: C5 x C30, 21: 0, 22: 0}
+
+weight: 13
+Homology indexed by degree:
+{21: C2 x C2 x C2 x C30 x C30, 22: 0, 23: 0}
+
+weight: 14
+Homology indexed by degree:
+{23: C2, 24: Z, 25: 0}
+
+weight: 15
+Homology indexed by degree:
+{25: Z x C2 x C20 x C20, 26: C5, 27: 0}
+
+weight: 16
+Homology indexed by degree:
+{27: C3 x C60, 28: 0, 29: 0}
+
+weight: 17
+Homology indexed by degree:
+{29: C5 x C5 x C5, 30: 0, 31: 0}
+
+weight: 18
+Homology indexed by degree:
+{31: C3, 32: 0, 33: 0}
+
+weight: 19
+Homology indexed by degree:
+{33: 0, 34: 0}
+
+weight: 20
+Homology indexed by degree:
+{35: C5, 36: 0}
+
+weight: 21
+Homology indexed by degree:
+{37: 0, 38: 0}
+
+weight: 22
+Homology indexed by degree:
+{39: 0, 40: 0}
+
+weight: 23
+Homology indexed by degree:
+{41: 0, 42: 0}
+
+weight: 24
+Homology indexed by degree:
+{43: 0, 44: 0}
+
+weight: 25
+Homology indexed by degree:
+{45: 0}
+
+weight: 26
+Homology indexed by degree:
+{47: 0}
+
+weight: 27
+Homology indexed by degree:
+{49: 0}
+
+weight: 28
+Homology indexed by degree:
+{51: 0}
+
+weight: 29
+Homology indexed by degree:
+{53: 0}
+
+weight: 30
+Homology indexed by degree:
+{55: 0}
+
