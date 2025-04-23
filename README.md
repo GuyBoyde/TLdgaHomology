@@ -11,6 +11,8 @@ HOW TO USE: The code has comments, which are numerous but not necessarily helpfu
   - If you just want to print the output in your notebook, then you can comment out all of the file writing stuff with no ill effects.
 How big you can make n and maxDegree will depend on how beefy your computer is: the outputs I'm including in the data file were obtained on an unremarkable laptop.
 
+OBSERVATIONS ABOUT THE OUTPUTS: Non-simple torsion seems to be comparitively rare in low degrees: the smallest n for which the code found any is n=6 (2n=12), where H_{13,8} is Z \oplus C4.
+
 ACKNOWLEDGEMENTS: Thanks to Christian Carrick and Charlotte Summers for various helpful pointers about the right way to do the code, and to use git.
 
 FEEDBACK: Welcome, at guy.boyde@gmail.com.
