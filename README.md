@@ -6,7 +6,7 @@ PRECISELY: Work over Z, and let A_n be the truncated divided power algebra A_n=\
 
 WRITTEN IN: Python, as a jupyter notebook, using sage, numpy and scipy (the latter two to do sparse matrix computations), especially the homology functionality in sage - thanks to the developers!
 
-HOW TO USE: The code has comments, which are numerous but not necessarily helpful. Basically, you set the two numbers at the top (n and maxDegree), then run all three blocks. The output you actually want is the last block, which gives some bigraded homology groups. The n is the n above, maxDegree is really the largest tensor power in the cobar complex where you compute everything, so you'll get all of the homology groups H_{d,w} where 2w-d \leq maxDegree.
+HOW TO USE: The code has comments, which are numerous but not necessarily helpful. Basically, you set the two numbers at the top (n and maxDegree), then run all three blocks. The output you actually want is the last block, which gives some bigraded homology groups. The n is the n above, maxDegree is really the largest tensor power in the cobar complex where you compute everything, so you'll get all of the homology groups H_{d,w} where 2w-d \leq maxDegree (if it doesn't crash first).
   - If you want to write the homology you computed to a txt file, then there should be a folder called "data" in the same place as the code: this is where the outputs will go.
   - If you just want to print the output in your notebook, then you can comment out all of the file writing stuff with no ill effects.
 How big you can make n and maxDegree will depend on how beefy your computer is: the outputs I'm including in the data file were obtained on an unremarkable laptop.
